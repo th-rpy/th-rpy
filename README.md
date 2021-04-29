@@ -12,7 +12,7 @@
 <p>
 <a href="https://github.com/th-rpy">
     <img alt="" title="GitHub followers" src="https://img.shields.io/github/followers/th-rpy?label=Follow&style=social"/></a>
-
+||
 <a href="https://twitter.com/SaraeiThamer">
     <img alt="" title="Twitter followers" src="https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe"/></a>
 
