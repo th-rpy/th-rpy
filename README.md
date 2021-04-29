@@ -9,15 +9,6 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p> 
-My Github Activity :   
-<a href="https://github.com/th-rpy/tweet2frame">
-    <img alt="" title="Commits for the TweetFrame Repo" src="https://img.shields.io/github/commit-activity/m/th-rpy/tweet2frame?style=plastic"/></a> 
-  
-  <a href="https://github.com/th-rpy/tweet2frame">
-    <img alt="youtube views" title="Last commits" src="https://img.shields.io/github/last-commit/th-rpy/tweet2frame/main"/></a>
-  
-  </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/th-rpy?label=Follow&style=social)
 
@@ -26,6 +17,17 @@ My Github Activity :
 [![Linkedin: Thamer](https://img.shields.io/badge/-Thamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamer-saraei-472300124/)](https://www.linkedin.com/in/thamer-saraei-472300124/)
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thamer2resume.herokuapp.com/)](https://thamer2resume.herokuapp.com/)
+
+
+### My Github Activity :
+<p>    
+<a href="https://github.com/th-rpy/tweet2frame">
+    <img alt="" title="Commits for the TweetFrame Repo" src="https://img.shields.io/github/commit-activity/m/th-rpy/tweet2frame?style=plastic"/></a> 
+  
+  <a href="https://github.com/th-rpy/tweet2frame">
+    <img alt="youtube views" title="Last commits" src="https://img.shields.io/github/last-commit/th-rpy/tweet2frame/main"/></a>
+  
+</p>
 
 ✨ I am a versatilist and easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
