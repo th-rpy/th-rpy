@@ -2,7 +2,7 @@
 <h1>Hi there, I'm <a href="https://thamer.codes">Thamer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <p align="center">
   <a href="https://www.youtube.com/channel/UC8Dt8pO_EqhP9unfnMd-64A">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC8Dt8pO_EqhP9unfnMd-64A?style=for-the-badge"/></a> 
   
   <a href="https://www.youtube.com/channel/UC8Dt8pO_EqhP9unfnMd-64A">
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC8Dt8pO_EqhP9unfnMd-64A?style=for-the-badge"/></a> 
