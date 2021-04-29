@@ -10,13 +10,17 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p>
-![GitHub followers](https://img.shields.io/github/followers/th-rpy?label=Follow&style=social)
+<a href="https://github.com/th-rpy">
+    <img alt="" title="GitHub followers" src="https://img.shields.io/github/followers/th-rpy?label=Follow&style=social"/></a>
 
-[![Twitter Follow Me](https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe)](https://twitter.com/SaraeiThamer)
+<a href="https://twitter.com/SaraeiThamer">
+    <img alt="" title="Twitter followers" src="https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe"/></a>
 
-[![Linkedin: Thamer](https://img.shields.io/badge/-Thamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamer-saraei-472300124/)](https://www.linkedin.com/in/thamer-saraei-472300124/)
+  [![Twitter Follow Me](https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe)](https://twitter.com/SaraeiThamer)
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thamer2resume.herokuapp.com/)](https://thamer2resume.herokuapp.com/)
+  [![Linkedin: Thamer](https://img.shields.io/badge/-Thamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamer-saraei-472300124/)](https://www.linkedin.com/in/thamer-saraei-472300124/)
+
+  [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thamer2resume.herokuapp.com/)](https://thamer2resume.herokuapp.com/)
 </p>
 
 ### My Github Activity :
