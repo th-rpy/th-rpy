@@ -1,13 +1,5 @@
 ### My GITHUB PROFILE
 <h1>Hi there, I'm <a href="https://thamer.codes">Thamer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC8Dt8pO_EqhP9unfnMd-64A">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC8Dt8pO_EqhP9unfnMd-64A?style=for-the-badge"/></a> 
-  
-  <a href="https://www.youtube.com/channel/UC8Dt8pO_EqhP9unfnMd-64A">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC8Dt8pO_EqhP9unfnMd-64A?style=for-the-badge"/></a> 
-</p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p>
 <a href="https://github.com/th-rpy">
@@ -23,6 +15,15 @@
     <img alt="" title="Web site" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thamer2resume.herokuapp.com/"/></a>
 
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC8Dt8pO_EqhP9unfnMd-64A">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC8Dt8pO_EqhP9unfnMd-64A?style=for-the-badge"/></a> 
+  
+  <a href="https://www.youtube.com/channel/UC8Dt8pO_EqhP9unfnMd-64A">
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC8Dt8pO_EqhP9unfnMd-64A?style=for-the-badge"/></a> 
+</p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### My Github Activity :
 <p>    
