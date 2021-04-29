@@ -12,15 +12,16 @@
 <p>
 <a href="https://github.com/th-rpy">
     <img alt="" title="GitHub followers" src="https://img.shields.io/github/followers/th-rpy?label=Follow&style=social"/></a>
-<br/>
+
 <a href="https://twitter.com/SaraeiThamer">
     <img alt="" title="Twitter followers" src="https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe"/></a>
 
-  [![Twitter Follow Me](https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe)](https://twitter.com/SaraeiThamer)
+<a href="https://www.linkedin.com/in/thamer-saraei-472300124/">
+    <img alt="" title="Linkedin followers" src="https://img.shields.io/badge/-Thamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamer-saraei-472300124/"/></a>
 
-  [![Linkedin: Thamer](https://img.shields.io/badge/-Thamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamer-saraei-472300124/)](https://www.linkedin.com/in/thamer-saraei-472300124/)
+<a href="https://thamer2resume.herokuapp.com/">
+    <img alt="" title="Web site" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thamer2resume.herokuapp.com/"/></a>
 
-  [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thamer2resume.herokuapp.com/)](https://thamer2resume.herokuapp.com/)
 </p>
 
 ### My Github Activity :
