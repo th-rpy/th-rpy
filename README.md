@@ -9,6 +9,16 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<p> 
+My Github Activity :   
+<a href="https://github.com/th-rpy/tweet2frame">
+    <img alt="" title="Commits for the TweetFrame Repo" src="https://img.shields.io/github/commit-activity/m/th-rpy/tweet2frame?style=plastic"/></a> 
+  
+  <a href="https://github.com/th-rpy/tweet2frame">
+    <img alt="youtube views" title="Last commits" src="https://img.shields.io/github/last-commit/th-rpy/tweet2frame/main"/></a>
+  
+  </p>
+
 ![GitHub followers](https://img.shields.io/github/followers/th-rpy?label=Follow&style=social)
 
 [![Twitter Follow Me](https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe)](https://twitter.com/SaraeiThamer)
