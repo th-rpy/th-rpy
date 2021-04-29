@@ -9,7 +9,7 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
+<p>
 ![GitHub followers](https://img.shields.io/github/followers/th-rpy?label=Follow&style=social)
 
 [![Twitter Follow Me](https://img.shields.io/twitter/follow/SaraeiThamer?label=FollowMe)](https://twitter.com/SaraeiThamer)
@@ -17,7 +17,7 @@
 [![Linkedin: Thamer](https://img.shields.io/badge/-Thamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamer-saraei-472300124/)](https://www.linkedin.com/in/thamer-saraei-472300124/)
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thamer2resume.herokuapp.com/)](https://thamer2resume.herokuapp.com/)
-
+</p>
 
 ### My Github Activity :
 <p>    
