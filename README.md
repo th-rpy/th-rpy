@@ -40,6 +40,7 @@
 
 ### My HackerRank Profile : 
 ![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
+[HackerRank Profile](https://www.hackerrank.com/thamer_saraei?hr_r=1)
 
 👇 A little more about me...  
 
