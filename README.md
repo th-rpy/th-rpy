@@ -35,11 +35,11 @@
   
 </p>
 
-### My HackerRank Profile : 
-![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
-
 
 ✨ I am a versatilist and easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
+### My HackerRank Profile : 
+![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
 
 👇 A little more about me...  
 
