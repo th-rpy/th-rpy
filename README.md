@@ -35,6 +35,10 @@
   
 </p>
 
+### My HackerRank Profile : 
+![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
+
+
 ✨ I am a versatilist and easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 👇 A little more about me...  
@@ -70,6 +74,6 @@ const Saraei = {
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <br>
-<img src="C:\Users\tsarei\Desktop\th-rpy\th-rpy\imgs\hackerProfile.PNG">
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
