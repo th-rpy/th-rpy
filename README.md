@@ -50,15 +50,17 @@
 
 [![Thamer's github stats](https://github-readme-stats.vercel.app/api?username=th-rpy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/th-rpy/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-rpy&layout=compact)](https://github.com/th-rpy/github-readme-stats)
+### Some Repositories :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=On-Time-Delivery-Prediction)](https://github.com/th-rpy/On-Time-Delivery-Prediction)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=tweet2frame)](https://github.com/th-rpy/tweet2frame)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-rpy&layout=compact)](https://github.com/th-rpy/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=30Days_Code_Hakerrank_Challenge)](https://github.com/th-rpy/30Days_Code_Hakerrank_Challenge)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=timer_app)](https://github.com/th-rpy/timer_app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=On-Time-Delivery-Prediction)](https://github.com/th-rpy/On-Time-Delivery-Prediction)
 
 ### My HackerRank Profile : 
 ![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
