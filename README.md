@@ -26,6 +26,9 @@
 
 ### About Me :
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=tweet2frame)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ✨ I am easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 👇 A little more about me...  
