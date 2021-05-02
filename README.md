@@ -48,7 +48,7 @@
   
 </p>
 
-[![Thamer's github stats](https://github-readme-stats.vercel.app/api?username=th-rpy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/th-rpy/github-readme-stats)
+[![Thamer's github stats](https://github-readme-stats.vercel.app/api?username=th-rpy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/th-rpy/tweet2frame)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-rpy&layout=compact)](https://github.com/th-rpy/github-readme-stats)
 
@@ -68,23 +68,25 @@
 
 
 ```javascript
-const Saraei = {
-  pronouns: "he" | "his",
+const ThamerSaraei = {
+  pronouns: "he" | "his" ,
   code: ["Javascript", "Reactjs", "HTML", "CSS", "Python", "R"],
   tools: ["React", "Redux", "Storybook", "Styled-Components", "Chakra-ui"],
   OS: ["Ubuntu/Linux", "Windows"],
   mlTools: {
-                mlLibraries:  "Scikit-Learn", "NumPy", "SciPy", "Pandas", "NLTK", "BeautifulSoup", 
-                                 "Matplotlib", "Statsmodels", "Jupyter Notebook",
-                dlLibraries : "Tensorflow", "Keras"
+              mlLibraries:  "Scikit-Learn", "NumPy", "SciPy", "Pandas", "NLTK", 
+                      "BeautifulSoup", "Matplotlib", "Statsmodels", "Jupyter Notebook",
+
+              dlLibraries : "Tensorflow", "Keras"
             },
  challenge: "I am doing the #30DaysOfCode Hackerrank challenge focused on Python and Javascript"
 }
 ```
 ### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/r.svg"></a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
