@@ -26,9 +26,20 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### My Github Activity :
+### About Me :
 
 ✨ I am easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
+👇 A little more about me...  
+
+- 🔭 &nbsp; I’m currently working on **Artify Web App** using *Reactjs* and *Tensorflow*
+- 🌱 &nbsp; I’m currently learning **ReactJs**; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/th-rpy?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/thamer-saraei-472300124/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1-PJKzimHqUCzbUH_VWUQjtpeERJtCqk0/view?usp=sharing)
+
+### My Github Activity :
 
 <p>    
 <a href="https://github.com/th-rpy/tweet2frame">
@@ -47,15 +58,6 @@
 ![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
 [HackerRank Profile](https://www.hackerrank.com/thamer_saraei?hr_r=1)
 
-
-👇 A little more about me...  
-
-- 🔭 &nbsp; I’m currently working on **Artify Web App** using *Reactjs* and *Tensorflow*
-- 🌱 &nbsp; I’m currently learning **ReactJs**; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/th-rpy?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/thamer-saraei-472300124/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1-PJKzimHqUCzbUH_VWUQjtpeERJtCqk0/view?usp=sharing)
 
 ```javascript
 const Saraei = {
