@@ -52,9 +52,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-rpy&layout=compact)](https://github.com/th-rpy/github-readme-stats)
 
-[![Thamer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thrpy1994)](https://github.com/th-rpy/tweet2frame)
-
-
 ### Some Repositories :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=On-Time-Delivery-Prediction)](https://github.com/th-rpy/On-Time-Delivery-Prediction)
