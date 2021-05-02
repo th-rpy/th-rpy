@@ -25,7 +25,11 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+
 ### My Github Activity :
+
+✨ I am easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
 <p>    
 <a href="https://github.com/th-rpy/tweet2frame">
     <img alt="" title="Commits for the TweetFrame Repo" src="https://img.shields.io/github/commit-activity/m/th-rpy/tweet2frame?style=plastic"/></a> 
@@ -39,11 +43,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-rpy)](https://github.com/th-rpy/github-readme-stats)
 
-✨ I am easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-
 ### My HackerRank Profile : 
 ![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
 [HackerRank Profile](https://www.hackerrank.com/thamer_saraei?hr_r=1)
+
 
 👇 A little more about me...  
 
