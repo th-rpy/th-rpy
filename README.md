@@ -52,7 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-rpy&layout=compact)](https://github.com/th-rpy/github-readme-stats)
 
-[![Thamer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=th-rpy)](https://github.com/th-rpy/tweet2frame)
+[![Thamer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thrpy1994)](https://github.com/th-rpy/tweet2frame)
 
 
 ### Some Repositories :
