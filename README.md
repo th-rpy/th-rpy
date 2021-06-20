@@ -63,7 +63,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th-rpy&repo=timer_app)](https://github.com/th-rpy/timer_app)
 
 ### My HackerRank Profile : 
-![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/hackerProfile.PNG?raw=true)
+![HackerRank Profile](https://raw.githubusercontent.com/th-rpy/th-rpy/main/imgs/HackerrankPro.PNG?raw=true)
 [HackerRank Profile](https://www.hackerrank.com/thamer_saraei?hr_r=1)
 
 
