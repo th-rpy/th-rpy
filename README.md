@@ -28,6 +28,8 @@
 
 ✨ I am easily adapt to different hats (**Frontend Web Developer 🌐**, **Python Developer**🐍, **ML Engineer** 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
+<a href="https://app.daily.dev/thsar"><img src="https://api.daily.dev/devcards/69faa047bf884e68b1816bc7b0682f30.png?r=b03" width="400" alt="thamer_saraei's Dev Card"/></a>
+
 👇 A little more about me...
   
 - :zap: I love math, programming, data science, and ML
