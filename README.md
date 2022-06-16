@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <a href="https://thamer.codes">Thamer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>Hi there, I'm <a href="https://thamer.codes">Thamer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> </h1>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UC8Dt8pO_EqhP9unfnMd-64A">
